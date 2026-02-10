@@ -101,3 +101,10 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+# Udacity Submission - Exclude large files
+data/
+flowers/
+*.pth
+saved_models/
+.DS_Store
